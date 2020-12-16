@@ -1,7 +1,3 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
